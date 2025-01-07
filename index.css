@@ -45,6 +45,10 @@ button {
     background: darkgoldenrod;
 }
 
+#increment2 {
+    background: darkred;
+}
+
 #save-el {
     font-weight: bold;
 }
