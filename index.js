@@ -7,7 +7,7 @@ function increment() {
     countEl.textContent = count
 }
 
-function increment290 {
+function increment2() {
     count++
     countEl.textContent = count
 }
